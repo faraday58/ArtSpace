@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="Art_Work_Title_owen">Still Life of Blue Rose and Other Flowers</string>
+    <string name="Art_Work_Artist_owen">Owen Scott</string>
+    <string name="Art_Work_Year_owen">2021</string>
+    <string name="Art_Work_Title_chait">Calavera</string>
+    <string name="Art_Work_Artist_chait">Chait Goli</string>
+    <string name="Art_Work_Year_chait">2019</string>
+    <string name="Art_Work_Title_toa">Oso</string>
+    <string name="Art_Work_Artist_toa">Toa Heftiba Sinca</string>
+    <string name="Art_Work_Year_toa">2017</string>
+    <string name="Art_Work_Title_felix">Blonde Nude</string>
+    <string name="Art_Work_Artist_felix">Feliz Valloton</string>
+    <string name="Art_Work_Year_felix">1921</string>
+
+</resources>
